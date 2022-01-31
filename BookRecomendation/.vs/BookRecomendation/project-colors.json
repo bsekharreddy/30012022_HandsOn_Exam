@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "035871f3-a8b6-41a9-a712-b06b5fe20627": {
+      "ProjectGuid": "035871f3-a8b6-41a9-a712-b06b5fe20627",
+      "DisplayName": "BookReviewsAPI",
+      "ColorIndex": 0
+    },
+    "ba41de56-73ca-46f6-ac78-4494c27037c9": {
+      "ProjectGuid": "ba41de56-73ca-46f6-ac78-4494c27037c9",
+      "DisplayName": "BookRecomendationWebApp",
+      "ColorIndex": 1
+    },
+    "df7ab3de-d91a-4a5f-8d36-8e2a35d04423": {
+      "ProjectGuid": "df7ab3de-d91a-4a5f-8d36-8e2a35d04423",
+      "DisplayName": "BookRecomendationDTO",
+      "ColorIndex": 2
+    },
+    "64fe62c5-087b-4b8e-ac42-eb96e51455f2": {
+      "ProjectGuid": "64fe62c5-087b-4b8e-ac42-eb96e51455f2",
+      "DisplayName": "BookRecomendationDataAccessLayer",
+      "ColorIndex": 3
+    },
+    "bbe8b74e-6fdd-40e3-b7bc-e6d78e7b10be": {
+      "ProjectGuid": "bbe8b74e-6fdd-40e3-b7bc-e6d78e7b10be",
+      "DisplayName": "BookRecomendationBusinessLayer",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
